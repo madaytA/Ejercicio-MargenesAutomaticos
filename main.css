@@ -1,0 +1,12 @@
+p{
+	border: 20px solid yellow;
+	display: block;
+	padding: 15px;
+	margin-right: 1000px;
+	text-align: center;
+}
+.medio{
+	margin-left: 600px;
+	margin-right: 400px;
+	text-align: left;
+}/* Escribe aqui tu CSS */
